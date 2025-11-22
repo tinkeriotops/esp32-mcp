@@ -1,0 +1,20 @@
+{
+  "name": "esp32-mcp",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "packageManager": "npm@11.6.1+sha512.ee20d21c3a2ea7ab8c409dfbc96ae17ea71b3211745047c645aa7a36ff9a29072b2095e50a2d9c29b8fbe5606688795cc2c402cbf534cc4c0365d031e87fd56b",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.22.0",
+    "express": "^5.1.0",
+    "fetch": "^1.1.0",
+    "node-fetch": "^3.3.2",
+    "zod": "^4.1.12"
+  }
+}
